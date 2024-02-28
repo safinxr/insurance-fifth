@@ -38,7 +38,7 @@ body {
     font-weight: 500;
     font-size: 18px;
     padding-bottom: 2.5px;
-    border-bottom: 2.5px solid #BD3959;
+    border-bottom: 2.5px solid #0060D6;
 }
 
 .nav-link:hover {
@@ -62,7 +62,7 @@ body {
 }
 
 .dropdown-menu li:hover {
-    background-color: #BD3959;
+    background-color: #0060D6;
     color: white;
 }
 
